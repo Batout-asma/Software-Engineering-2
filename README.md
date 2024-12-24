@@ -1,6 +1,6 @@
 # Software Engineering TP2
 
-This repository contains my practical work (TP) for Software Engineering. Each folder includes the related code, and resources for different topics covered in the course. The provided code files demonstrate concepts, methodologies, and solutions explored during the TPs.
+This repository contains my practical work two (TP2) for Software Engineering. Each file includes the different diagram, covered the whole system conception. The provided files demonstrate conception of our system (☞ﾟヮﾟ)☞ Washing Machine.
 
 ### Colaborators  
 - **Asma:** Sequance Diagram + Definition Block Diagrams.  
