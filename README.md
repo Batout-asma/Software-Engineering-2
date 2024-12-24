@@ -13,7 +13,7 @@ This repository contains my practical work two (TP2) for Software Engineering. E
 ![image](https://github.com/Batout-asma/Software-Engineering-2/blob/main/Sequence%20Diagram.png?raw=true)
 
 ### Use Case Diagram
-![image](https://github.com/Batout-asma/Software-Engineering-2/blob/main/Sequence%20Diagram.png?raw=true)
+![image](https://github.com/Batout-asma/Software-Engineering-2/blob/main/use%20case%20diagram.png)
 
 ### Sequence Diagram 
 ![image](https://github.com/Batout-asma/Software-Engineering-2/blob/main/Sequence%20Diagram.png?raw=true)
@@ -21,14 +21,14 @@ This repository contains my practical work two (TP2) for Software Engineering. E
 ### Definition Block Diagram 
 1:
 
-![image](https://github.com/Batout-asma/Software-Engineering-2/blob/main/Sequence%20Diagram.png?raw=true)
+![image](https://github.com/Batout-asma/Software-Engineering-2/blob/main/Definition%20Block%20Diagram%201.png)
 
 2:
 
-![image](https://github.com/Batout-asma/Software-Engineering-2/blob/main/Sequence%20Diagram.png?raw=true)
+![image](https://github.com/Batout-asma/Software-Engineering-2/blob/main/Definition%20Block%20Diagram%202.png)
 
 ### Block Intern Diagram 
-![image](https://github.com/Batout-asma/Software-Engineering-2/blob/main/Sequence%20Diagram.png?raw=true)
+![image](https://github.com/Batout-asma/Software-Engineering-2/blob/main/block%20intern%20diagram.png)
 
 ### State Diagram 
 ![image](https://github.com/Batout-asma/Software-Engineering-2/blob/main/Sequence%20Diagram.png?raw=true)
