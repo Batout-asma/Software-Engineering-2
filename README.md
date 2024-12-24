@@ -4,7 +4,7 @@ This repository contains my practical work two (TP2) for Software Engineering. E
 
 ### Colaborators  
 - **Asma:** Sequance Diagram + Definition Block Diagrams.  
-- **Zaineb:** /your diagrams/.
+- **Zaineb:** use case diagram+block interne diagram.
 - **Saoussenne:** /your diagrams/.
 - **Samar:** /your diagrams/.
 
