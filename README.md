@@ -1,6 +1,7 @@
 # Software Engineering TP2
 
-This repository contains my practical work two (TP2) for Software Engineering. Each file includes the different diagram, covered the whole system conception. The provided files demonstrate conception of our system (☞ﾟヮﾟ)☞ $${\color{red}Washing Machine}$$.
+This repository contains my practical work two (TP2) for Software Engineering. Each file includes the different diagram, covered the whole system conception. 
+The provided files demonstrate conception of our system (☞ﾟヮﾟ)☞ $${\color{red}Washing Machine}$$.
 
 ### Colaborators  
 - $${\color{green}Asma:}$$ Sequance Diagram + Definition Block Diagrams.  
