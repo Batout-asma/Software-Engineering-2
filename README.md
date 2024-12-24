@@ -5,7 +5,7 @@ The provided files demonstrate conception of our system (☞ﾟヮﾟ)☞ $${\co
 
 ### Colaborators  
 - $${\color{green}Asma:}$$ Sequance Diagram + Definition Block Diagrams.  
-- $${\color{green}Zaineb:}$$ /your diagrams/.
+- $${\color{green}Zaineb:}$$ Use Case Diagram + Block Inetrn Diagram.
 - $${\color{green}Saoussenne:}$$ /your diagrams/.
 - $${\color{green}Samar:}$$ /your diagrams/.
 
