@@ -11,7 +11,7 @@ The provided files demonstrate conception of our system (☞ﾟヮﾟ)☞ $${\co
 
 
 ### Requirement Diagram
-![image](https://github.com/Batout-asma/Software-Engineering-2/blob/main/Sequence%20Diagram.png?raw=true)
+![image](https://raw.githubusercontent.com/Batout-asma/Software_Engineering-2/refs/heads/main/requirement%20Diagram.png)
 
 ### Use Case Diagram
 ![image](https://github.com/Batout-asma/Software-Engineering-2/blob/main/use%20case%20diagram.png)
