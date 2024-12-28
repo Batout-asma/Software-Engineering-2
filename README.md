@@ -38,8 +38,8 @@ The provided files demonstrate conception of our system (☞ﾟヮﾟ)☞ $${\co
 ![Screenshot 2024-12-27 223038](https://github.com/user-attachments/assets/2a5e989e-a9b3-47c8-b15c-b64bb1e78baa)
 
 
-### Next Diagram 
-![image](https://github.com/Batout-asma/Software-Engineering-2/blob/main/Sequence%20Diagram.png?raw=true)
+### Activity Diagram 
+![image](https://raw.githubusercontent.com/Batout-asma/Software_Engineering-2/refs/heads/main/activity%20Diagram.png)
 
 ### Next Diagram 
 ![image](https://github.com/Batout-asma/Software-Engineering-2/blob/main/Sequence%20Diagram.png?raw=true)
