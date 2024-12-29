@@ -42,6 +42,7 @@ The provided files demonstrate conception of our system (☞ﾟヮﾟ)☞ $${\co
 ![image](https://raw.githubusercontent.com/Batout-asma/Software_Engineering-2/refs/heads/main/activity%20Diagram.png)
 
 ### Paramitric Diagram
-![paramitric diagram](https://github.com/user-attachments/assets/b9873b75-5348-4b39-be32-f36edd5229a3)
+![paramitric diagram](https://github.com/user-attachments/assets/15237476-772d-4ae9-93c9-cf5880105e3d)
+
 
 
